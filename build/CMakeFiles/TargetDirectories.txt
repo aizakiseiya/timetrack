@@ -1,0 +1,13 @@
+/home/aizaki/workspace/timetrack/build/CMakeFiles/test.dir
+/home/aizaki/workspace/timetrack/build/CMakeFiles/edit_cache.dir
+/home/aizaki/workspace/timetrack/build/CMakeFiles/rebuild_cache.dir
+/home/aizaki/workspace/timetrack/build/src/CMakeFiles/task.dir
+/home/aizaki/workspace/timetrack/build/src/CMakeFiles/main.dir
+/home/aizaki/workspace/timetrack/build/src/CMakeFiles/test.dir
+/home/aizaki/workspace/timetrack/build/src/CMakeFiles/edit_cache.dir
+/home/aizaki/workspace/timetrack/build/src/CMakeFiles/rebuild_cache.dir
+/home/aizaki/workspace/timetrack/build/test/CMakeFiles/TaskTest.dir
+/home/aizaki/workspace/timetrack/build/test/CMakeFiles/WorkHistoryTest.dir
+/home/aizaki/workspace/timetrack/build/test/CMakeFiles/test.dir
+/home/aizaki/workspace/timetrack/build/test/CMakeFiles/edit_cache.dir
+/home/aizaki/workspace/timetrack/build/test/CMakeFiles/rebuild_cache.dir
